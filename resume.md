@@ -3,17 +3,18 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+`2016-present`
+__Instructional Designer__, The George Washington University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`in progress`
+__Texas Woman's University__
+Master of Arts, History
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2007`
+__Texas Woman's University__
+Bachelor of Science, History
 
 ## Awards
 
@@ -49,19 +50,17 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`2015-2016`
+__Community Outreach Coordinator__, Alzheimer's Alliance of Smith County 
 
-- Task
-- Task
+`2013-2015`
+__Instructional Designer__, The University of Texas at Tyler 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2012-2013`
+__Instructional Designer__, Manhattanville College
 
-- Task
-- Task
-
-
+`2010-2012`
+__Instructional Designer__, Texas Woman's University
 
 <!-- ### Footer
 
